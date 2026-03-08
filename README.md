@@ -26,7 +26,7 @@ Aplicativo web para organizar suas tarefas, com interface moderna, responsiva e 
 - Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
 
 ## Contato
-- **LinkedIn:** [Seu LinkedIn](#)  
+- **LinkedIn:** [linkedin.com/in/erick-nascimento-meireles](#)  
 - **GitHub:** [github.com/Erick-Meireles-sys](https://github.com/Erick-Meireles-sys)  
 
 ---
