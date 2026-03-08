@@ -29,6 +29,3 @@ Aplicativo web para organizar suas tarefas, com interface moderna, responsiva e 
 - **LinkedIn:** [linkedin.com/in/erick-nascimento-meireles](#)  
 - **GitHub:** [github.com/Erick-Meireles-sys](https://github.com/Erick-Meireles-sys)  
 
----
-
-💡 Todos os projetos são **responsivos** e podem ser usados diretamente no celular via **GitHub Pages**.
