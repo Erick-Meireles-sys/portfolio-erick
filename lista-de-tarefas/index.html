@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<title>Lista de Tarefas</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<img class="foto" src="https://images.pexels.com/photos/9229056/pexels-photo-9229056.jpeg">
+
+<h2>
+<i class="fa-solid fa-list-check"></i>
+Lista de Tarefas
+</h2>
+
+<p id="contador">Tarefas: 0</p>
+
+<div class="barra">
+<div id="progresso"></div>
+</div>
+
+<div class="input-area">
+<input id="tarefa" placeholder="Digite uma tarefa">
+<button onclick="adicionar()">
+<i class="fa-solid fa-plus"></i>
+</button>
+</div>
+
+<button onclick="limparTudo()">
+<i class="fa-solid fa-trash"></i> Limpar tudo
+</button>
+
+<ul id="lista"></ul>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
